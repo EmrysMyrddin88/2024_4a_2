@@ -1,4 +1,6 @@
-
+/*
+ * versione 3
+ */
 public class Passeggeri extends Vagone {
 String classe;
 int postiDisponibili, postiOccupati;
