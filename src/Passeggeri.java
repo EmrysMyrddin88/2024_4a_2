@@ -1,5 +1,5 @@
 /*
- * versione 4
+ * versione 5
  */
 public class Passeggeri extends Vagone {
 String classe;
